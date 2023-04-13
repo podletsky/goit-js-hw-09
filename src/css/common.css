@@ -16,3 +16,32 @@ img {
   display: block;
   max-width: 100%;
 }
+
+
+.value{
+  display: flex;
+font-size: 30px;
+font-weight: 300;
+padding: 0;
+margin-bottom: 0;
+line-height: 1;
+
+}
+.field{
+  margin-right: 10px;
+  color:black;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin-bottom: 0;
+  line-height: 0.4;
+text-align: center
+ ;}
+.timer{
+  display: flex;
+}
+.label{
+  font-size: 12px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+ 
+}

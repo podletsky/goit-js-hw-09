@@ -10,7 +10,7 @@ btnStart.classList.add(".btn")
 
 
 
-fp = flatpickr(myDateInput, PushSubscriptionOptions);
+ flatpickr(myDateInput, PushSubscriptionOptions);
 const calendars = flatpickr(".calendar", {});
 calendars[0]
 import flatpickr from "flatpickr";

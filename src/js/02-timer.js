@@ -1,7 +1,3 @@
-
-
-
-
 import flatpickr from "flatpickr"
 import "flatpickr/dist/flatpickr.min.css"
 const myDateInput= document.querySelector('#datetime-picker')
@@ -84,4 +80,3 @@ function onStartTimer() {
     updateTimerDisplay(convertMs(ms));
   }, 1000);
 }
-
